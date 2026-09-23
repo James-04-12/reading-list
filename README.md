@@ -1,2 +1,1 @@
-# My r
-eading list
+# My book list
